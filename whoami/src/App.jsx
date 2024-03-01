@@ -1,4 +1,5 @@
 import About from './About';
+import Contact from './Contact';
 import Landing from './Landing';
 import Projects from './Projects';
 import SideBar from './SideBar';
@@ -12,6 +13,7 @@ function App() {
       <Skills />
       <Projects />
       <About />
+      <Contact />
     </>
   );
 }
