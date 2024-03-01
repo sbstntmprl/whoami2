@@ -12,7 +12,6 @@
     @apply  text-background shadow-lg p-6 cursor-pointer bg-secondary rounded-3xl
     hover:text-active hover:rounded-xl transition-all duration-300 ease-linear;
   }
-
 }
 
  :root {
